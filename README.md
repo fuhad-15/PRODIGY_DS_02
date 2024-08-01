@@ -42,17 +42,6 @@ To run the data cleaning and EDA scripts, follow these steps:
 
 6. **View the Results:** The script generates plots and saves them in the `results/` directory.
 
-### Example Output
-
-Here are some of the visualizations produced by the EDA script:
-
-- **Survival Rate by Gender**
-- **Age Distribution of Passengers**
-- **Passenger Class vs. Survival Rate**
-
-![Survival Rate by Gender](results/survival_rate_by_gender.png)
-![Age Distribution](results/age_distribution.png)
-![Passenger Class vs. Survival Rate](results/class_survival_rate.png)
 
 ### Key Findings
 
@@ -158,17 +147,6 @@ To run the data cleaning and EDA scripts, follow these steps:
 
 6. **View the Results:** The script generates plots and saves them in the `results/` directory.
 
-## Example Output
-
-Here are some of the visualizations produced by the EDA script:
-
-- **Survival Rate by Gender**
-- **Age Distribution of Passengers**
-- **Passenger Class vs. Survival Rate**
-
-![Survival Rate by Gender](results/survival_rate_by_gender.png)
-![Age Distribution](results/age_distribution.png)
-![Passenger Class vs. Survival Rate](results/class_survival_rate.png)
 
 ## Key Findings
 
